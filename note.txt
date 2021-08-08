@@ -1,0 +1,4 @@
+1. Celcious to Farenheight Convert 
+2. Farenheight to Celcious
+3. grade calculation
+4. simple interest 
